@@ -69,7 +69,7 @@ Python was used to independently rebuild the analytical workflow, including:
 - Macroeconomic data merging
 - Multiple linear regression
 
-Power BI Dashboard
+## Power BI Dashboard
 
 An interactive Power BI dashboard was developed to display:
 
@@ -84,8 +84,8 @@ An interactive Power BI dashboard was developed to display:
 - House price vs land size
 - House-price distribution
 - Interactive filters for year and suburb
-
-Key Business Insights
+![Power BI Dashboard](mmexport1787650698131.jpg)
+## Key Business Insights
 
 1. Blacktown offers the strongest affordability and stability combination
 
